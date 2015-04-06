@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Walid\Desktop\White Realms Admin Dashboard\WhiteRealmsAdminDashboard\WhiteRealmsAdminDashboard\obj\Debug\
+C:\Users\Walid\Documents\GitHub\RotmgPrivateServerAdminDashboard\WhiteRealmsAdminDashboard\WhiteRealmsAdminDashboard\obj\Debug\
 WhiteRealmsAdminDashboard
 none
 false
 DEBUG;TRACE
-C:\Users\Walid\Desktop\White Realms Admin Dashboard\WhiteRealmsAdminDashboard\WhiteRealmsAdminDashboard\App.xaml
-2-142845769
+C:\Users\Walid\Documents\GitHub\RotmgPrivateServerAdminDashboard\WhiteRealmsAdminDashboard\WhiteRealmsAdminDashboard\App.xaml
+32000729157
 
-111422795832
+121537811596
 13-1142990016
-LoadingWindow.xaml;MainWindow.xaml;
+AdminLoginSetting.xaml;LoadingWindow.xaml;MainWindow.xaml;
 
 False
 

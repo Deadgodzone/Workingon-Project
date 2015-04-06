@@ -14,10 +14,11 @@ namespace WhiteRealmsAdminDashboard
     {
         public static bool isLogin = false;
         public static bool shouldCloseLoading = false;
+        public static string adminLoginPage = "http://realm.openrealms.net/admin/login.php";
         public static void TryLogin(string username, string password)
         {
             var client = new WebClient();
-            string html = client.DownloadString("http://realm.openrealms.net/admin/login.php?mail=" + username + "&password_hash=" + password);
+            string html = client.DownloadString(adminLoginPage + "?mail=" + username + "&password_hash=" + password);
             Boolean.TryParse(html,out isLogin);
         }
     }

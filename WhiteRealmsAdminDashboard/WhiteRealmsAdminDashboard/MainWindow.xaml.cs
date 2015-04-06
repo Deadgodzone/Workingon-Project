@@ -25,7 +25,7 @@ namespace WhiteRealmsAdminDashboard
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("This is a test version connected with the Open Realms server and contains a simple login form, currently you can't make your own account. Ill get around this issue soon.");
+            // MessageBox.Show("This is a test version connected with the Open Realms server and contains a simple login form, currently you can't make your own account. Ill get around this issue soon.");
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
